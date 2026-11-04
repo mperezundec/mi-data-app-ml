@@ -42,7 +42,7 @@ modelo_clf, modelo_reg, modelo_clu = cargar_modelos()
 df = cargar_datos()
 
 # Encabezado principal
-st.title("🤖 Hub Integrado de Machine Learning")
+st.title("🤖 Hubs Integrado de Machine Learning")
 st.write("Tres modelos de Machine Learning en producción sobre el mismo caso de estudio.")
 
 st.markdown("---")
